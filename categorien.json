@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Wet",
+    "description": "De eerste vijf boeken van Mozes (Pentateuch/Torah)."
+  },
+  {
+    "id": 2,
+    "name": "Geschiedenisboeken",
+    "description": "Boeken die de geschiedenis van Israël vertellen."
+  },
+  {
+    "id": 3,
+    "name": "Wijsheidsboeken",
+    "description": "Poëtische en wijsheidsteksten."
+  },
+  {
+    "id": 4,
+    "name": "Profeten",
+    "description": "Boeken met profetieën en boodschappen van God."
+  },
+  {
+    "id": 5,
+    "name": "Evangelies",
+    "description": "De levensbeschrijvingen van Jezus Christus."
+  },
+  {
+    "id": 6,
+    "name": "Handelingen",
+    "description": "Het verhaal van de eerste christelijke kerk."
+  },
+  {
+    "id": 7,
+    "name": "Brieven",
+    "description": "Brieven van Paulus en andere apostelen."
+  },
+  {
+    "id": 8,
+    "name": "Openbaring",
+    "description": "Apocalyptisch visioen over de eindtijd."
+  }
+]
