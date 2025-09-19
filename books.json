@@ -10,7 +10,8 @@
     "main_theme": "Schepping, zondeval, begin van Gods volk",
     "key_figures": ["Adam", "Eva", "Noach", "Abraham", "Jozef"],
     "category_id": 1,
-    "position_in_bible": 1
+    "position_in_bible": 1,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Genesis.jpg"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "main_theme": "Uittocht uit Egypte en Gods verbond",
     "key_figures": ["Mozes", "Aäron", "Farao"],
     "category_id": 1,
-    "position_in_bible": 2
+    "position_in_bible": 2,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/exodus.jpg"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "main_theme": "Wetten en heiligheidscode",
     "key_figures": ["Mozes", "Aäron"],
     "category_id": 1,
-    "position_in_bible": 3
+    "position_in_bible": 3,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/leviticus.jpg"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "main_theme": "Woestijnreis van Israël",
     "key_figures": ["Mozes", "Aäron", "Miriam", "Jozua", "Kaleb"],
     "category_id": 1,
-    "position_in_bible": 4
+    "position_in_bible": 4,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/numeri.jpg"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "main_theme": "Herhaling van de wet en voorbereiden op Kanaän",
     "key_figures": ["Mozes", "Jozua"],
     "category_id": 1,
-    "position_in_bible": 5
+    "position_in_bible": 5,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/deuteronomy.jpg"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "main_theme": "Inname van het beloofde land",
     "key_figures": ["Jozua", "Kaleb", "Rachab"],
     "category_id": 2,
-    "position_in_bible": 6
+    "position_in_bible": 6,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/jozua.jpg"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "main_theme": "Israël tussen trouw en afval",
     "key_figures": ["Debora", "Gideon", "Simson"],
     "category_id": 2,
-    "position_in_bible": 7
+    "position_in_bible": 7,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/rechters.jpg"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "main_theme": "Getrouwheid en Gods voorzienigheid",
     "key_figures": ["Ruth", "Naömi", "Boaz"],
     "category_id": 2,
-    "position_in_bible": 8
+    "position_in_bible": 8,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/ruth.jpg"
   },
   {
     "id": 9,
