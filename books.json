@@ -122,7 +122,8 @@
     "main_theme": "De overgang van richteren naar koningen",
     "key_figures": ["Samuël", "Saul", "David"],
     "category_id": 2,
-    "position_in_bible": 9
+    "position_in_bible": 9,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1samuel.jpeg"
   },
   {
     "id": 10,
@@ -135,7 +136,8 @@
     "main_theme": "Koning David en zijn regering",
     "key_figures": ["David", "Batseba", "Absalom"],
     "category_id": 2,
-    "position_in_bible": 10
+    "position_in_bible": 10,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2samuel.webp"
   },
   {
     "id": 11,
@@ -148,7 +150,9 @@
     "main_theme": "Geschiedenis van de koningen van Israël en Juda",
     "key_figures": ["Salomo", "Elia", "Achab", "Izebel"],
     "category_id": 2,
-    "position_in_bible": 11
+    "position_in_bible": 11,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1kings.jpg"
+
   },
   {
     "id": 12,
@@ -161,7 +165,8 @@
     "main_theme": "Val van beide koninkrijken Israël en Juda",
     "key_figures": ["Elisa", "Hizkia", "Josia", "Nebukadnezar"],
     "category_id": 2,
-    "position_in_bible": 12
+    "position_in_bible": 12,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2kings.jpeg"
   },
   {
     "id": 13,
@@ -174,7 +179,9 @@
     "main_theme": "Stamboom van Israël en de regering van David",
     "key_figures": ["Adam", "David", "Salomo"],
     "category_id": 2,
-    "position_in_bible": 13
+    "position_in_bible": 13,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1kronieken.jpeg"
+
   },
   {
     "id": 14,
@@ -187,7 +194,9 @@
     "main_theme": "Geschiedenis van Juda en de tempel",
     "key_figures": ["Salomo", "Rechabeam", "Josia"],
     "category_id": 2,
-    "position_in_bible": 14
+    "position_in_bible": 14,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2kronieken.jpg"
+
   },
   {
     "id": 15,
@@ -200,7 +209,9 @@
     "main_theme": "Terugkeer uit de ballingschap en tempelherbouw",
     "key_figures": ["Ezra", "Zerubbabel"],
     "category_id": 2,
-    "position_in_bible": 15
+    "position_in_bible": 15,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Ezra.jpg"
+
   },
   {
     "id": 16,
@@ -213,7 +224,9 @@
     "main_theme": "Herbouw van Jeruzalem en geestelijke vernieuwing",
     "key_figures": ["Nehemia", "Sanballat", "Ezra"],
     "category_id": 2,
-    "position_in_bible": 16
+    "position_in_bible": 16,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Nehemia.jpeg"
+
   },
   {
     "id": 17,
@@ -226,7 +239,9 @@
     "main_theme": "Gods redding van de Joden in Perzië",
     "key_figures": ["Ester", "Mordechaï", "Haman", "Ahasveros"],
     "category_id": 2,
-    "position_in_bible": 17
+    "position_in_bible": 17,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Esther.jpg"
+
   },
   {
     "id": 18,
@@ -239,7 +254,9 @@
     "main_theme": "Lijden en Gods soevereiniteit",
     "key_figures": ["Job", "zijn vrienden", "God"],
     "category_id": 3,
-    "position_in_bible": 18
+    "position_in_bible": 18,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/job.jpeg"
+
   },
   {
     "id": 19,
@@ -252,7 +269,9 @@
     "main_theme": "Gebeden, lofzangen en klaagliederen",
     "key_figures": ["David", "Asaf", "Korachieten"],
     "category_id": 3,
-    "position_in_bible": 19
+    "position_in_bible": 19,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/psalmen.jpg"
+
   },
   {
     "id": 20,
@@ -265,7 +284,9 @@
     "main_theme": "Wijsheid voor het dagelijks leven",
     "key_figures": ["Salomo"],
     "category_id": 3,
-    "position_in_bible": 20
+    "position_in_bible": 20,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/spreuken.jpg"
+
   },
   {
     "id": 21,
@@ -278,7 +299,9 @@
     "main_theme": "De zinloosheid van het leven zonder God",
     "key_figures": ["Salomo"],
     "category_id": 3,
-    "position_in_bible": 21
+    "position_in_bible": 21,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Ecclesiastes.jpeg"
+
   },
   {
     "id": 22,
@@ -291,7 +314,9 @@
     "main_theme": "Liefde en huwelijk",
     "key_figures": ["Bruid", "Bruidegom (Salomo)"],
     "category_id": 3,
-    "position_in_bible": 22
+    "position_in_bible": 22,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Hooglied2.png"
+
   },
   {
     "id": 23,
@@ -304,7 +329,9 @@
     "main_theme": "Oordeel en verlossing, Messiaanse profetieën",
     "key_figures": ["Jesaja", "Koning Hizkia"],
     "category_id": 4,
-    "position_in_bible": 23
+    "position_in_bible": 23,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/jesaja.png"
+
   },
   {
     "id": 24,
@@ -317,7 +344,9 @@
     "main_theme": "Oordeel over Juda en troost voor de toekomst",
     "key_figures": ["Jeremia", "Koning Jojakim", "Jozia"],
     "category_id": 4,
-    "position_in_bible": 24
+    "position_in_bible": 24,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/jeremiah.jpeg"
+
   },
   {
     "id": 25,
@@ -330,7 +359,9 @@
     "main_theme": "Rouw om de vernietiging van Jeruzalem",
     "key_figures": ["Jeruzalem", "God"],
     "category_id": 4,
-    "position_in_bible": 25
+    "position_in_bible": 25,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/klaagliederen.jpeg"
+
   },
   {
     "id": 26,
@@ -343,7 +374,9 @@
     "main_theme": "Oordeel, herstel en toekomstvisioenen",
     "key_figures": ["Ezechiël", "Israël"],
     "category_id": 4,
-    "position_in_bible": 26
+    "position_in_bible": 26,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/ezechiel.jpeg"
+
   },
   {
     "id": 27,
@@ -356,7 +389,9 @@
     "main_theme": "Geloof en trouw in ballingschap, profetieën",
     "key_figures": ["Daniël", "Nebukadnezar", "Sjadrak", "Mesjak", "Abednego"],
     "category_id": 4,
-    "position_in_bible": 27
+    "position_in_bible": 27,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/daniel.jpeg"
+
   },
   {
     "id": 28,
@@ -369,7 +404,9 @@
     "main_theme": "Gods trouw ondanks Israëls ontrouw",
     "key_figures": ["Hosea", "Gomer"],
     "category_id": 4,
-    "position_in_bible": 28
+    "position_in_bible": 28,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/hosea.jpeg"
+
   },
   {
     "id": 29,
@@ -382,7 +419,9 @@
     "main_theme": "Dag des Heren, oproep tot bekering",
     "key_figures": ["Joël", "Israël"],
     "category_id": 4,
-    "position_in_bible": 29
+    "position_in_bible": 29,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/joel.jpeg"
+
   },
   {
     "id": 30,
@@ -395,7 +434,9 @@
     "main_theme": "Oordeel over Israël en de omringende volken",
     "key_figures": ["Amos", "Israël"],
     "category_id": 4,
-    "position_in_bible": 30
+    "position_in_bible": 30,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/amos.jpeg"
+
   },
   {
     "id": 31,
@@ -408,7 +449,9 @@
     "main_theme": "Oordeel over Edom",
     "key_figures": ["Edom", "Israël"],
     "category_id": 4,
-    "position_in_bible": 31
+    "position_in_bible": 31,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/obadja.jpeg"
+
   },
   {
     "id": 32,
@@ -421,7 +464,9 @@
     "main_theme": "Barmhartigheid van God en bekering",
     "key_figures": ["Jona", "Ninevé"],
     "category_id": 4,
-    "position_in_bible": 32
+    "position_in_bible": 32,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/jona.jpeg"
+
   },
   {
     "id": 33,
@@ -434,7 +479,9 @@
     "main_theme": "Oordeel en hoop, komst van de Messias",
     "key_figures": ["Micha", "Israël", "Juda"],
     "category_id": 4,
-    "position_in_bible": 33
+    "position_in_bible": 33,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/Micah.webp"
+
   },
   {
     "id": 34,
@@ -447,7 +494,9 @@
     "main_theme": "Oordeel over Ninevé",
     "key_figures": ["Ninevé"],
     "category_id": 4,
-    "position_in_bible": 34
+    "position_in_bible": 34,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/nahum.jpeg"
+
   },
   {
     "id": 35,
@@ -460,7 +509,9 @@
     "main_theme": "Gerechtigheid van God in moeilijke tijden",
     "key_figures": ["Habakuk", "Babylon"],
     "category_id": 4,
-    "position_in_bible": 35
+    "position_in_bible": 35,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/habakuk.jpeg"
+
   },
   {
     "id": 36,
@@ -473,7 +524,9 @@
     "main_theme": "Oordeel over Juda en de volkeren",
     "key_figures": ["Sefanja", "Jeruzalem"],
     "category_id": 4,
-    "position_in_bible": 36
+    "position_in_bible": 36,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/sefanja.jpeg"
+
   },
   {
     "id": 37,
@@ -486,7 +539,9 @@
     "main_theme": "Herbouw van de tempel",
     "key_figures": ["Haggai", "Zerubbabel"],
     "category_id": 4,
-    "position_in_bible": 37
+    "position_in_bible": 37,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/haggai.jpeg"
+
   },
   {
     "id": 38,
@@ -499,7 +554,9 @@
     "main_theme": "Herstel van Jeruzalem en profetieën over de Messias",
     "key_figures": ["Zacharia", "Israël"],
     "category_id": 4,
-    "position_in_bible": 38
+    "position_in_bible": 38,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/zacharia.jpeg"
+
   },
   {
     "id": 39,
@@ -512,7 +569,9 @@
     "main_theme": "Roept tot trouw en rechtvaardigheid, verwachting van de Messias",
     "key_figures": ["Maleachi", "Israël"],
     "category_id": 4,
-    "position_in_bible": 39
+    "position_in_bible": 39,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/maleachi.jpeg"
+
   },
   {
     "id": 40,
@@ -525,7 +584,9 @@
     "main_theme": "Jezus als de beloofde Messias",
     "key_figures": ["Jezus", "discipelen", "Farizeeën"],
     "category_id": 5,
-    "position_in_bible": 40
+    "position_in_bible": 40,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/matthew.jpeg"
+
   },
   {
     "id": 41,
@@ -538,7 +599,9 @@
     "main_theme": "Jezus als lijdende Dienaar",
     "key_figures": ["Jezus", "discipelen", "Petrus"],
     "category_id": 5,
-    "position_in_bible": 41
+    "position_in_bible": 41,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/mark.jpeg"
+
   },
   {
     "id": 42,
@@ -551,7 +614,9 @@
     "main_theme": "Jezus als Redder van allen, inclusief armen en marginalen",
     "key_figures": ["Jezus", "Maria", "Zacharias", "Elisabeth"],
     "category_id": 5,
-    "position_in_bible": 42
+    "position_in_bible": 42,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/luke.jpeg"
+
   },
   {
     "id": 43,
@@ -564,7 +629,9 @@
     "main_theme": "Jezus als Zoon van God en eeuwig leven",
     "key_figures": ["Jezus", "discipelen", "Maria Magdalena"],
     "category_id": 5,
-    "position_in_bible": 43
+    "position_in_bible": 43,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/john.jpeg"
+
   },
   {
     "id": 44,
@@ -577,7 +644,9 @@
     "main_theme": "Verspreiding van het evangelie en de eerste kerk",
     "key_figures": ["Petrus", "Paulus", "Stefanus"],
     "category_id": 6,
-    "position_in_bible": 44
+    "position_in_bible": 44,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/acts.jpeg"
+
   },
   {
     "id": 45,
@@ -590,7 +659,9 @@
     "main_theme": "Rechtvaardiging door geloof",
     "key_figures": ["Paulus", "Romeinse gemeente"],
     "category_id": 7,
-    "position_in_bible": 45
+    "position_in_bible": 45,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/romans.jpeg"
+    
   },
   {
     "id": 46,
@@ -603,7 +674,9 @@
     "main_theme": "Lessen over gemeenschap, liefde en christelijk gedrag",
     "key_figures": ["Paulus", "Korinthische gemeente"],
     "category_id": 7,
-    "position_in_bible": 46
+    "position_in_bible": 46,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1korintiers.jpeg"
+
   },
   {
     "id": 47,
@@ -616,7 +689,9 @@
     "main_theme": "Troost en verdediging van Paulus’ apostelschap",
     "key_figures": ["Paulus", "Korinthische gemeente"],
     "category_id": 7,
-    "position_in_bible": 47
+    "position_in_bible": 47,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2korintiers.jpeg"
+
   },
   {
     "id": 48,
@@ -629,7 +704,9 @@
     "main_theme": "Vrijheid in Christus, niet onder de wet",
     "key_figures": ["Paulus", "Galatische gemeente"],
     "category_id": 7,
-    "position_in_bible": 48
+    "position_in_bible": 48,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/galaten.jpeg"
+
   },
   {
     "id": 49,
@@ -642,7 +719,9 @@
     "main_theme": "Eenheid van de kerk en leven in Christus",
     "key_figures": ["Paulus", "Efezische gemeente"],
     "category_id": 7,
-    "position_in_bible": 49
+    "position_in_bible": 49,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/efeze.jpeg"
+
   },
   {
     "id": 50,
@@ -655,7 +734,9 @@
     "main_theme": "Vreugde en volharding in geloof",
     "key_figures": ["Paulus", "Filippense gemeente"],
     "category_id": 7,
-    "position_in_bible": 50
+    "position_in_bible": 50,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/filipensen.jpeg"
+
   },
   {
     "id": 51,
@@ -668,7 +749,9 @@
     "main_theme": "Christus als hoofd van de kerk",
     "key_figures": ["Paulus", "Kolossense gemeente"],
     "category_id": 7,
-    "position_in_bible": 51
+    "position_in_bible": 51,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/kolosenzen.jpeg"
+
   },
   {
     "id": 52,
@@ -681,7 +764,9 @@
     "main_theme": "Geloof, hoop en verwachting van de wederkomst",
     "key_figures": ["Paulus", "Tessalonicenzen"],
     "category_id": 7,
-    "position_in_bible": 52
+    "position_in_bible": 52,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1tessalonisenze.jpeg"
+
   },
   {
     "id": 53,
@@ -694,7 +779,9 @@
     "main_theme": "Volharding en waarschuwing tegen luiheid",
     "key_figures": ["Paulus", "Tessalonicenzen"],
     "category_id": 7,
-    "position_in_bible": 53
+    "position_in_bible": 53,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2tessalonisenzen.jpeg"
+
   },
   {
     "id": 54,
@@ -707,7 +794,9 @@
     "main_theme": "Leiderschap en orde in de kerk",
     "key_figures": ["Paulus", "Timoteüs"],
     "category_id": 7,
-    "position_in_bible": 54
+    "position_in_bible": 54,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1%20timoteus.jpeg"
+    
   },
   {
     "id": 55,
@@ -720,7 +809,9 @@
     "main_theme": "Volharding en trouw in geloof",
     "key_figures": ["Paulus", "Timoteüs"],
     "category_id": 7,
-    "position_in_bible": 55
+    "position_in_bible": 55,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2timoteus.jpeg"
+
   },
   {
     "id": 56,
@@ -733,7 +824,9 @@
     "main_theme": "Goed leiderschap en christelijk gedrag",
     "key_figures": ["Paulus", "Titus"],
     "category_id": 7,
-    "position_in_bible": 56
+    "position_in_bible": 56,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/titus.jpeg"
+
   },
   {
     "id": 57,
@@ -746,7 +839,9 @@
     "main_theme": "Vergeving en liefde tussen christenen",
     "key_figures": ["Paulus", "Filemon", "Onesimus"],
     "category_id": 7,
-    "position_in_bible": 57
+    "position_in_bible": 57,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/filemon.jpeg"
+
   },
   {
     "id": 58,
@@ -759,7 +854,9 @@
     "main_theme": "Jezus als de volmaakte Hogepriester",
     "key_figures": ["Jezus", "Israël", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 58
+    "position_in_bible": 58,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/hebreeen.jpeg"
+
   },
   {
     "id": 59,
@@ -772,7 +869,9 @@
     "main_theme": "Praktisch christelijk leven en geloof",
     "key_figures": ["Jakobus", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 59
+    "position_in_bible": 59,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/jakobus.jpeg"
+
   },
   {
     "id": 60,
@@ -785,7 +884,9 @@
     "main_theme": "Volharding in lijden en heilig leven",
     "key_figures": ["Petrus", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 60
+    "position_in_bible": 60,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/1peter.jpeg"
+
   },
   {
     "id": 61,
@@ -798,7 +899,9 @@
     "main_theme": "Waarschuwing tegen valse leraren",
     "key_figures": ["Petrus", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 61
+    "position_in_bible": 61,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2peter.jpg"
+
   },
   {
     "id": 62,
@@ -811,7 +914,9 @@
     "main_theme": "Liefde, geloof en waarheid",
     "key_figures": ["Johannes", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 62
+    "position_in_bible": 62,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2John.jpeg"
+
   },
   {
     "id": 63,
@@ -824,7 +929,9 @@
     "main_theme": "Waarschuwing tegen dwaling en trouw in liefde",
     "key_figures": ["Johannes", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 63
+    "position_in_bible": 63,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/2John.jpeg"
+
   },
   {
     "id": 64,
@@ -837,7 +944,9 @@
     "main_theme": "Ondersteuning van goede leiders en waarschuwen tegen slechte",
     "key_figures": ["Johannes", "Gaius", "Diotrephes"],
     "category_id": 7,
-    "position_in_bible": 64
+    "position_in_bible": 64,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/3John.jpeg"
+
   },
   {
     "id": 65,
@@ -850,7 +959,9 @@
     "main_theme": "Waarschuwing tegen valse leraren",
     "key_figures": ["Judas", "Christenen"],
     "category_id": 7,
-    "position_in_bible": 65
+    "position_in_bible": 65,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/judas.jpeg"
+
   },
   {
     "id": 66,
@@ -863,6 +974,8 @@
     "main_theme": "Visioenen van de eindtijd en overwinning van Christus",
     "key_figures": ["Johannes", "Jezus", "het Lam", "het Beest"],
     "category_id": 8,
-    "position_in_bible": 66
+    "position_in_bible": 66,
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/openbaringen.jpeg"
+
   }
 ]
