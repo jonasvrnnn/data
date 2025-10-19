@@ -3,41 +3,48 @@
     "id": 1,
     "name": "Wet",
     "description": "De eerste vijf boeken van Mozes (Pentateuch/Torah).",
-    "image_url": ""
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/DeWet.jpeg"
   },
   {
     "id": 2,
     "name": "Geschiedenisboeken",
-    "description": "Boeken die de geschiedenis van Israël vertellen."
+    "description": "Boeken die de geschiedenis van Israël vertellen.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/geschiedenis_boeken.jpeg"
   },
   {
     "id": 3,
     "name": "Wijsheidsboeken",
-    "description": "Poëtische en wijsheidsteksten."
+    "description": "Poëtische en wijsheidsteksten.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/wijsheidsboeken.jpeg"
   },
   {
     "id": 4,
     "name": "Profeten",
-    "description": "Boeken met profetieën en boodschappen van God."
+    "description": "Boeken met profetieën en boodschappen van God.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/profeten.jpeg"
   },
   {
     "id": 5,
     "name": "Evangelies",
-    "description": "De levensbeschrijvingen van Jezus Christus."
+    "description": "De levensbeschrijvingen van Jezus Christus.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/evangelies.jpeg"
   },
   {
     "id": 6,
     "name": "Handelingen",
-    "description": "Het verhaal van de eerste christelijke kerk."
+    "description": "Het verhaal van de eerste christelijke kerk.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/handelingen.jpeg"
   },
   {
     "id": 7,
     "name": "Brieven",
-    "description": "Brieven van Paulus en andere apostelen."
+    "description": "Brieven van Paulus en andere apostelen.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/brieven.jpeg"
   },
   {
     "id": 8,
     "name": "Openbaring",
-    "description": "Apocalyptisch visioen over de eindtijd."
+    "description": "Apocalyptisch visioen over de eindtijd.",
+    "image_url": "https://raw.githubusercontent.com/jonasvrnnn/data/refs/heads/main/images/openbaringen_categorie.jpeg"
   }
 ]
